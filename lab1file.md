@@ -41,4 +41,6 @@ command ls to lecture1 directory first, and then go to messages directory and th
 
 * Using command cat
 
-1. 
+1. Using the command cat with no arguments:
+When using command cat with no argument, it will let us create or edit the text that we want to type and display the text in the terminal itself. As shown in the image below, we don't have to create a certain text file when we can type it in the terminal.
+
