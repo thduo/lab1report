@@ -19,7 +19,7 @@ if given a file as an argument, the cd command will report an error with a messa
 are not directory, they are files so the cd command cannot use them to direct us. 
 ![Image](cdwithfile.png)
 
-*Using command ls
+* Using command ls
 
 1. Using the command with no arguments:
 if given no argument, the ls will defaultly list all the files in the directory that we currently in. In the image shown below, ls command will list 
@@ -39,6 +39,6 @@ Hello.java, it will say Hello.java is not a directory so it cannot list. Also, e
 command ls to lecture1 directory first, and then go to messages directory and then we can use command ls to see what files in messages. 
 ![Image](lswithfile.png)
 
-*Using command cat
+* Using command cat
 
 1. 
