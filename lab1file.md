@@ -40,11 +40,11 @@ When using command `cat` with no argument, it will let us create or edit the tex
 
 ![Image](catnoargument.png)
 
-3. Using the command `cat` with arguments:
+2. Using the command `cat` with arguments:
 When using the command `cat` with arguments, it should show us the message of a file inside a certain directory. In the image shown below, I use the command `cat` to display the text inside the file vi.txt and en-us.txt.
 ![Image](catwithargument.png)
 
-4. Using the command `cat` with a path to a file:
+3. Using the command `cat` with a path to a file:
 When using the command `cat` with a path to a file, there will be some cases happened shown in the image below. The command can display a file if we direct it to that file. For example, in the image, it will display the vi.txt and Hello.java if directed in the correct directory. However, if we just use command `cat` for a directory, it will only display the message lecture1: Is a directory or messages: Is a directory.
 ![Image](catpathtofile2.png)
 ![Image](catpathtofile1.png)
