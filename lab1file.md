@@ -2,7 +2,7 @@
 # Name: Duong Ngo
 # Professor: Joe Gibss Politz
 
-* Using command `cd`
+* Using command `cd` :
 
 1. Using the command with no arguments:
 if given no argument, the `cd` command will direct us to the given path, in this case the given path is * home written as /home. In this case, the default path is `home`, so whenver we use `cd` 
